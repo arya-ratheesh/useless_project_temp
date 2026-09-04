@@ -239,7 +239,7 @@ function App() {
           <div className="advice-list">
             {/* CHECHI */}
             <div className={`advice-card chechi-advice ${ignored === "chechi" ? "ignored" : ""}`}>
-              <img className="advice-character-image" src="/src/assets/chechi.png" alt="Chechi" />
+              <img className="advice-character-image"  src={chechiImage} alt="Chechi" />
               <div className="advice-top">
                 <h2>👩 CHECHI</h2>
                 <span>BADNESS: {getChar("chechi").badness || 86}%</span>
