@@ -150,7 +150,7 @@ function App() {
 
           <div className="characters">
             <div className="character-card chechi">
-              <img className="character-image" src="/src/assets/chechi.png" alt="Chechi" />
+              <img className="character-image" src="./assets/chechi.png" alt="Chechi" />
               <div className="character-heading">
                 <h2>CHECHI</h2>
                 <span>— THE EMOTIONAL EXPERT</span>
@@ -160,7 +160,7 @@ function App() {
             </div>
 
             <div className="character-card upadeshi">
-              <img className="character-image" src="/src/assets/nattile updeshi.png" alt="Nattile Upadeshi" />
+              <img className="character-image" src="./assets/nattile updeshi.png" alt="Nattile Upadeshi" />
               <div className="character-heading">
                 <h2>NATTILE UPADESHI</h2>
                 <span>— THE UNSOLICITED EXPERT</span>
@@ -261,7 +261,7 @@ function App() {
 
             {/* UPADESHI */}
             <div className={`advice-card upadeshi-advice ${ignored === "upadeshi" ? "ignored" : ""}`}>
-              <img className="advice-character-image" src="/src/assets/nattile updeshi.png" alt="Nattile Upadeshi" />
+              <img className="advice-character-image" src="./assets/nattile updeshi.png" alt="Nattile Upadeshi" />
               <div className="advice-top">
                 <h2>🧓 NATTILE UPADESHI</h2>
                 <span>BADNESS: {getChar("upadeshi").badness || 94}%</span>
