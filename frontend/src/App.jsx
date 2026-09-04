@@ -1,6 +1,8 @@
 import { useState } from "react";
 import "./App.css";
 import redditImage from "./assets/redditmaman.png";
+import chechiImage from "./assets/chechi.png";
+import upadeshiImage from "./assets/nattile updeshi.png";
 
 const API_BASE_URL = "http://localhost:8000";
 
@@ -150,7 +152,7 @@ function App() {
 
           <div className="characters">
             <div className="character-card chechi">
-              <img className="character-image" src="/src/assets/chechi.png" alt="Chechi" />
+              <img className="character-image" src={chechiImage} alt="Chechi" />
               <div className="character-heading">
                 <h2>CHECHI</h2>
                 <span>— THE EMOTIONAL EXPERT</span>
@@ -261,7 +263,7 @@ function App() {
 
             {/* UPADESHI */}
             <div className={`advice-card upadeshi-advice ${ignored === "upadeshi" ? "ignored" : ""}`}>
-              <img className="advice-character-image" src="/src/assets/nattile updeshi.png" alt="Nattile Upadeshi" />
+              <img className="advice-character-image" src={upadeshiImage} alt="Nattile Upadeshi" />
               <div className="advice-top">
                 <h2>🧓 NATTILE UPADESHI</h2>
                 <span>BADNESS: {getChar("upadeshi").badness || 94}%</span>
