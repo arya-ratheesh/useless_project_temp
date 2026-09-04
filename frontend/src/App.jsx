@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import redditImage from "./assets/redditmaman.png";
 import chechiImage from "./assets/chechi.png";
-import upadeshiImage from "./assets/nattile updeshi.png";
+import upadeshiImage from "./assets/updeshi.png";
 
 const API_BASE_URL = "http://localhost:8000";
 
@@ -162,7 +162,7 @@ function App() {
             </div>
 
             <div className="character-card upadeshi">
-              <img className="character-image" src="/src/assets/nattile updeshi.png" alt="Nattile Upadeshi" />
+              <img className="character-image" src="/src/assets/updeshi.png" alt="Nattile Upadeshi" />
               <div className="character-heading">
                 <h2>NATTILE UPADESHI</h2>
                 <span>— THE UNSOLICITED EXPERT</span>
