@@ -162,7 +162,7 @@ function App() {
             </div>
 
             <div className="character-card upadeshi">
-              <img className="character-image" src="/src/assets/updeshi.png" alt="Nattile Upadeshi" />
+              <img className="character-image" src={upadeshiImage} alt="Nattile Upadeshi" />
               <div className="character-heading">
                 <h2>NATTILE UPADESHI</h2>
                 <span>— THE UNSOLICITED EXPERT</span>
