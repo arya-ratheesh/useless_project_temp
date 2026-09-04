@@ -1,36 +1,31 @@
-<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
-
-
-
-# [Project Name] 🎯
+# [THE WORST ADVICE COMMITTEE] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [MAVELI]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
+- Team Lead: [Arya r] - [[LBS INSTITUTE OF TECHNOLOGY FOR WOMEN]
+- Member 2: [Aiswarya s] - [[LBS INSTITUTE OF TECHNOLOGY FOR WOMEN]
+  
 ### Project Description
-[2-3 lines about what your project does]
+[Worst Advice Committee is an AI-powered comedy game where three fictional advisors compete to give users the worst possible advice. Using RAG and Grok AI, it generates absurd responses and lets users explore arguments, reasoning, and hilarious consequences.]]
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Students often face information overload and conflicting advice online, making it difficult to know what to trust. Our project turns this problem into an entertaining experience by showing how unreliable advice can become when AI confidently amplifies it.]]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We created an AI-powered “Worst Advice Committee” that intentionally generates absurd and unreliable advice using RAG and Grok AI, turning everyday problems into an interactive comedy experience.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
+-[JavaScript, Python,HTML/CSS]
+- [React (Frontend), FastAPI(Backend]
+- [Pydantic,faiss,grok python SDK,starlette]
+- [Grok API, RAG, Reddit, VS Code, Git, GitHub]
 For Hardware:
 - [List main components]
 - [List specifications]
@@ -48,13 +43,15 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="1920" height="1080" alt="Screenshot 2026-09-04 072545" src="https://github.com/user-attachments/assets/c2c7dbaf-a316-4158-8a5f-597e92c880ae" />
+
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+<img width="1920" height="1080" alt="Screenshot 2026-09-04 073907" src="https://github.com/user-attachments/assets/6aae7638-9dcb-4b60-8e74-a9b08c4e4574" />
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+<img width="1920" height="1080" alt="Screenshot 2026-09-04 075254" src="https://github.com/user-attachments/assets/7017caab-7179-49ba-a673-8205f21cc44e" />
+
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -82,7 +79,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://drive.google.com/file/d/1XfDXNRfMcbQwpDGLiAw0uYzLuI4O9Gfh/view?usp=drivesdk
 *Explain what the video demonstrates*
 
 # Additional Demos
